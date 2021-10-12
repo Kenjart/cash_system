@@ -346,4 +346,3 @@ def art_2():
         amongy2.right(5)
         b = b + 1
     w2.exitonclick()
-art_2()
