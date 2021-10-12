@@ -6,6 +6,7 @@ import func_module
 
 def main():
     func_module.art_2()
+    print("Life is a never ending state of constant suffering")
 
 def cost(): #Function for cost
     x = float(input("Enter it's cost "))
